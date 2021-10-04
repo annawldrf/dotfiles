@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anna@waldorf.de
+	name = Anna Waldorf
